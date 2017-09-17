@@ -56,18 +56,32 @@
 		#column3 {
 			height: auto;
     		width: auto;
-    		max-width: 310px;
+    		max-width: 460px;
     		background-color: white;
     		float: left;
-    		padding: 10px;
+    		padding-left: 10%;
+    		text-align:center;
+    		padding-top: 10%;
+    		padding-bottom: 10%;
 		}
 		#column4 {
-			height: 100%;
-    		width: 100%;
-    		max-width: 610px;
+			height: auto;
+    		width: auto;
+    		max-width: 460px;
     		background-color: white;
     		float: right;
-    		margin-top: 15px;
+    		text-align:center;
+    		padding-right: 10%;
+    		padding-top: 10%;
+    		padding-bottom: 10%;
+    		
+		}
+		#column5 {
+    		height: 100%;
+    		width: 100%;
+    		background-color: white;
+    		padding-top: 20%;
+    		text-align:center;
     		
 		}
 		#map {
@@ -117,7 +131,8 @@
 		}
 		h2 {
 			text-align:left;
-			color: #707070;
+			text-decoration: underline;
+			color: #dadfff;
 			font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
 		}
 		a.button {
@@ -133,6 +148,10 @@
 		a.button:hover {
 		    background-color: #dadfff; 
 		    color: #707070;
+		}
+
+		form{
+			text-align: center;
 		}
 		
 		

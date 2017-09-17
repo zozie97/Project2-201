@@ -36,16 +36,18 @@
     		background-color: white;
    		    width: auto;
     		height: auto;
-    		margin-right: 5px;
-    		text-align:center;
-    		padding: 10px;
+    		/*margin-right: 1%;
+    		margin-left: 1%;*/
+    		text-align: center;
+    		padding-top: 2%;
+
     		
 		}
 		#column2 {
     		height: auto;
     		width: auto;
     		background-color: white;
-    		padding: 10px;
+    		padding: 7.5%;
     		
 		}
 		#column3 {
@@ -99,7 +101,10 @@
 		} 
 		
 		li { 
-			display: inline; 
+			display: inline;
+			float: left;
+			width: auto; 
+			height: auto;
 			font-size: 25px;
 			margin: 7.5%;
 			text-decoration: none;

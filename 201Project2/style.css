@@ -106,7 +106,8 @@
 			width: auto; 
 			height: auto;
 			font-size: 25px;
-			margin: 7.5%;
+			margin-left: 7.5%;
+			margin-right: 7.5%;
 			text-decoration: none;
 			color:#707070; 
 		} 
@@ -145,7 +146,7 @@
 			font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
 		}
 		a.button {
-		    background-color: white; 
+		    background-color: #dadfff; 
 		    border: none;
 		    color: #707070;
 		    padding: 15px 32px;
@@ -153,9 +154,10 @@
 		    text-decoration: none;
 		    display: inline-block;
 		    font-size: 22px;
+		    font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
 		}
 		a.button:hover {
-		    background-color: #dadfff; 
+		    background-color: white; 
 		    color: #707070;
 		}
 
@@ -164,7 +166,7 @@
 			font-size: 15px;
 		}
 		button {
-			background-color: white; 
+			background-color: #dadfff; 
 		    border: white;
 		    color: #707070;
 		    padding: 1%;
@@ -172,9 +174,10 @@
 		    text-decoration: none;
 		    display: inline-block;
 		    font-size: 15px;
+		    font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
 		}
 		button:hover {
-		    background-color: #dadfff; 
+		    background-color: white; 
 		    color: #707070;
 		}
 		

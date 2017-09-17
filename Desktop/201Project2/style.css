@@ -1,0 +1,138 @@
+* {
+			margin-top:5px;
+			padding:0px;
+		}
+		body {
+			text-align: center;
+		}
+		#wrapper {
+    		height: 2500px;
+    		width: auto;
+    		max-width: 960px;
+    		background-color: white;
+    		padding-left:20px;
+    		padding-right:20px;
+    		margin-left: auto;
+			margin-right: auto;
+			text-align: center;
+			
+		}
+		#column1 {
+			background-color: white;
+		}
+		#title {
+			padding-left: 15px;
+			padding-right: 15px;
+			padding-top: 10px;
+			}
+		
+	
+		#header {
+    		background-color: white;
+
+    		/*max-width: 940px;*/
+    		
+    		width: auto;
+    		height: auto;
+    		
+		}
+
+		#navigation {
+    		background-color: white;
+   		    width: auto;
+    		height: auto;
+    		margin-right: 5px;
+    		text-align:center;
+    		padding: 10px;
+    		
+		}
+		#column2 {
+    		height: auto;
+    		width: auto;
+    		background-color: white;
+    		padding: 10px;
+    		
+		}
+		#column3 {
+			height: auto;
+    		width: auto;
+    		max-width: 310px;
+    		background-color: white;
+    		float: left;
+    		padding: 10px;
+		}
+		#column4 {
+			height: 100%;
+    		width: 100%;
+    		max-width: 610px;
+    		background-color: white;
+    		float: right;
+    		margin-top: 15px;
+    		
+		}
+		#map {
+			margin: 0px;
+		}
+	
+		ul { 
+			list-style-type:none; 
+			text-align:center;
+			font-family: Verdana, Geneva, sans-serif;
+		} 
+		
+		li { 
+			display: inline; 
+			font-size: 25px;
+			margin: 10px;
+			text-decoration: none;
+			color:#707070; 
+		} 
+		
+		a:link,a:visited { 
+			color:#707070; 
+			text-align:center; ;
+			text-decoration:none; 
+		} 
+		
+		a:hover,a:active { 
+			color: #dadfff; 
+		}
+
+		p {
+			text-align: left;
+			font-size: 18px;
+			font-family: Verdana, Geneva, sans-serif;
+		}
+		img {
+			width: 100%;
+			max-width: 100%;
+			text-align: center;
+			border: 0px;
+			
+		}
+		h1 {
+			text-align:center;
+			color: black;
+			font-family: Verdana, Geneva, sans-serif;
+		}
+		h2 {
+			text-align:left;
+			color: midnightBlue;
+			font-family: Verdana, Geneva, sans-serif;
+		}
+		a.button {
+		    background-color: white; 
+		    border: none;
+		    color: #707070;
+		    padding: 15px 32px;
+		    text-align: center;
+		    text-decoration: none;
+		    display: inline-block;
+		    font-size: 22px;
+		}
+		a.button:hover {
+		    background-color: #dadfff; 
+		    color: #707070;
+		}
+		
+		

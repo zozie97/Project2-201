@@ -6,7 +6,7 @@
 			text-align: center;
 		}
 		#wrapper {
-    		height: 2500px;
+    		height: 1000%;
     		width: auto;
     		max-width: 960px;
     		background-color: white;
@@ -24,14 +24,9 @@
 			padding-left: 15px;
 			padding-right: 15px;
 			padding-top: 10px;
-			}
-		
-	
+		}
 		#header {
     		background-color: white;
-
-    		/*max-width: 940px;*/
-    		
     		width: auto;
     		height: auto;
     		
@@ -81,23 +76,30 @@
     		width: 100%;
     		background-color: white;
     		padding-top: 20%;
+    		padding-bottom: 10%;
     		text-align:center;
     		
 		}
-		#map {
-			margin: 0px;
+		#login {
+    		height: 100%;
+    		width: 100%;
+    		background-color: white;
+    		padding-top: 5%;
+    		padding-bottom: 10%;
+    		text-align:center;
+    		
 		}
 	
 		ul { 
 			list-style-type:none; 
 			text-align:center;
-			font-family: Verdana, Geneva, sans-serif;
+			font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
 		} 
 		
 		li { 
 			display: inline; 
 			font-size: 25px;
-			margin: 10px;
+			margin: 7.5%;
 			text-decoration: none;
 			color:#707070; 
 		} 
@@ -150,8 +152,23 @@
 		    color: #707070;
 		}
 
-		form{
+		input{
 			text-align: center;
+			font-size: 15px;
+		}
+		button {
+			background-color: white; 
+		    border: white;
+		    color: #707070;
+		    padding: 1%;
+		    text-align: center;
+		    text-decoration: none;
+		    display: inline-block;
+		    font-size: 15px;
+		}
+		button:hover {
+		    background-color: #dadfff; 
+		    color: #707070;
 		}
 		
 		

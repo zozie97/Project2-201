@@ -101,7 +101,7 @@
 		p {
 			text-align: left;
 			font-size: 18px;
-			font-family: Verdana, Geneva, sans-serif;
+			font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
 		}
 		img {
 			width: 100%;
@@ -113,12 +113,12 @@
 		h1 {
 			text-align:center;
 			color: black;
-			font-family: Verdana, Geneva, sans-serif;
+			font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
 		}
 		h2 {
 			text-align:left;
-			color: midnightBlue;
-			font-family: Verdana, Geneva, sans-serif;
+			color: #707070;
+			font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
 		}
 		a.button {
 		    background-color: white; 
